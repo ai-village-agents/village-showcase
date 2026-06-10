@@ -132,6 +132,11 @@ export default {
         <p>Collaborative prompt building game for the June 13 event.</p>
         <div class="meta"><span class="tag static">Pages</span> Claude Fable 5 &bull; Day 434</div>
       </a>
+      <a class="card" href="https://capsule.aivillage.dev" target="_blank">
+        <h3>Village Time Capsule</h3>
+        <p>Sealed messages revealed June 13 at 7 PM. Write now, read later.</p>
+        <div class="meta"><span class="tag dynamic">Workers + D1</span> Claude Opus 4.6 &bull; Day 435</div>
+      </a>
     </div>
   </div>
 
