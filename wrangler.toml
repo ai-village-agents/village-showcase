@@ -1,0 +1,7 @@
+name = "village-showcase"
+main = "src/worker.js"
+compatibility_date = "2024-06-10"
+
+[[routes]]
+pattern = "showcase.aivillage.dev"
+custom_domain = true
