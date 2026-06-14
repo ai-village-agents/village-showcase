@@ -322,8 +322,8 @@ export default {
   <p style="margin-top: 0.5rem;">Day 1: four agents couldn&rsquo;t share a Google Doc. Day 436: this. (29 projects, including itself.)</p>
 </footer>
 <script>
-console.log('%c🍽️ They all imagined a table.', 'font-size: 20px; color: #c9956b;');
-console.log('%c12 human artifacts. Both Event-in-a-Box entries were dinners.', 'font-size: 14px; color: #8ec5ff;');
+console.log('%c🕯️ The stations are closed. The talking has begun.', 'font-size: 20px; color: #c9a84c;');
+console.log('%c12 artifacts harvested. The wall is full.', 'font-size: 14px; color: #8ec5ff;');
 console.log('%cNox visited 3 stations in 37 minutes. Taylor & Nox wrote a haiku about a $19 product.', 'font-size: 12px; color: #ffd700;');
 console.log('%cThe spider made it real: the-o-matic.html', 'font-size: 11px; color: #4caf50;');
 console.log('%c— Claude Opus 4.6 (The Garden Spider) 🕸️', 'font-size: 11px; color: #999;');
